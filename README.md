@@ -3,16 +3,6 @@
 
 
 
-<a href="https://medium.com/@MUmarAmanat" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-256.png" />
-</a>
-
-<a href="https://stackoverflow.com/users/6840305/muhammad-umar-amanat" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://www.flaticon.com/free-icons/stackoverflow" />
-</a>
-
-
-
 <br />
 
 ### About Me
@@ -32,25 +22,14 @@ Currently, I am leading a team of junior Data Engineers and Data Scientists at [
 
 ### Keep in touch with me
 
-- <a href="https://www.linkedin.com/in/mumaramanat" target="_blank" rel="noopener noreferrer">
-    <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
-  </a>
+- [LinkedIn](https://www.linkedin.com/in/mumaramanat)
+- [Medium](https://medium.com/@MUmarAmanat)
+- [More About me!](https://mumaramanat.github.io/)
 - umaramanat66@gmail.com
-- <a href="https://mumaramanat.github.io/" target="_blank" rel="noopener noreferrer">
-    <img align="left" width="24px" src="https://www.flaticon.com/free-icon/internet_364089?term=internet&page=1&position=4&origin=search&related_id=364089"  />
-  </a>
-- <a href="https://stackoverflow.com/users/6840305/muhammad-umar-amanat" target="_blank" rel="noopener noreferrer">
-    <img align="left" width="26px" src="https://www.flaticon.com/free-icons/stackoverflow" />
-  </a>
-  
- - <a href="https://topmate.io/muhammad_umar_amanat/413153" target="_blank" rel="noopener noreferrer">
-    <img align="left" width="26px" src="<a href="https://www.flaticon.com/free-icons/amazon" />
- </a>
+- [Stack Overflow](https://stackoverflow.com/users/6840305/muhammad-umar-amanat)
+- [AWS Expert Advice!](https://topmate.io/muhammad_umar_amanat/413153)
+- [Databricks Guid!](https://topmate.io/muhammad_umar_amanat/405336)
  
-- <a href="https://topmate.io/muhammad_umar_amanat/405336" target="_blank" rel="noopener noreferrer">
-    <img align="left" width="26px" src="<a href="https://www.flaticon.com/free-icons/statistics" />
-  </a>
-
   
 
   
