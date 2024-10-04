@@ -9,7 +9,7 @@
 
 I am a Data & AI consultant with more than 5+6 years of experience. With a strong grip on AWS, Azure, and GCP I got the opportunity to work for several industries including the energy sector, fashion & apparel, retail, finance, hospitality, and more. 
 
-Currently, I am leading a team of junior Data Engineers and Data Scientists at [Techvista](https://www.systemsltd.com/MEA). I am interested in learning new trends in Data & AI and then trying my best to help the community by writing tech blogs.
+Currently, Leading Etisalat’s “Customer Experience” squad and working closely with the “Consumer squad” to innovate business processes using AI including Data Science, Machine Learning, and GenAI. I am interested in learning new trends in Data & AI and then trying my best to help the community by writing tech blogs.
 
 
 
