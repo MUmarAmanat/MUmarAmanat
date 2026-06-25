@@ -24,8 +24,7 @@ Currently, Leading Etisalat’s “Customer Experience” squad and working clos
 
 - [LinkedIn](https://www.linkedin.com/in/mumaramanat)
 - [Medium](https://medium.com/@MUmarAmanat)
-- [More About me!](https://www.dataandaiwolf.com/)
-- umaramanat66@gmail.com
+- [More About me!](https://mumaramanat.netlify.app/)
 - [Stack Overflow](https://stackoverflow.com/users/6840305/muhammad-umar-amanat)
 - [AWS Expert Advice!](https://topmate.io/muhammad_umar_amanat/413153)
 - [Databricks Guide!](https://topmate.io/muhammad_umar_amanat/405336)
