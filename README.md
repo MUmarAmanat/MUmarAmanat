@@ -11,10 +11,7 @@ I am a Sr. Solution Architect (Data & AI) with more than 8+ years of experience.
 
 Currently, Leading Etisalat’s “Customer Experience” squad and working closely with the “Consumer squad” to innovate business processes using AI including Data Science, Machine Learning, and GenAI. I am interested in learning new trends in Data & AI and then trying my best to help the community by writing tech blogs.
 
-
-
-[![M Umar Amanat's GitHub stats](https://github-stats-extended.vercel.app/api?username=MUmarAmanat)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mumaramanat&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=mumaramanat&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=MUmarAmanat&countColor=%2337d67a&style=plastic)](https://visitorbadge.io/status?path=MUmarAmanat)
 
