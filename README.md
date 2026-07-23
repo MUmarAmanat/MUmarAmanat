@@ -13,7 +13,7 @@ Currently, Leading Etisalat’s “Customer Experience” squad and working clos
 
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![M Umar Amanat's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=MUmarAmanat&countColor=%2337d67a&style=plastic)](https://visitorbadge.io/status?path=MUmarAmanat)
